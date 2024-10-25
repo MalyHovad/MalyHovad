@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MalyHovad
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Python, C#
+- 💞️ I’m looking to collaborate on stuff (smaller projects)
+- 📫 How to reach me? Just use discord
+- 😄 Pronouns: I identify as an electrical locomotive
+- ⚡ Fun fact: Line 6
