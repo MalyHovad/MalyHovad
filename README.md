@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MalyHovad
-- 👀 I’m interested in ...
+- 👀 I’m interested in planes, trains and nuclear engineering
 - 🌱 I’m currently learning Python, C#
 - 💞️ I’m looking to collaborate on stuff (smaller projects)
 - 📫 How to reach me? Just use discord
